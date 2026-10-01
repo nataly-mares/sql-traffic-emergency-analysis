@@ -52,6 +52,7 @@ To optimize recurring queries and structure the database for future BI dashboard
     ├── 06_tiempos_respuesta_emergencia.png
     ├── 07_vista_resumen_incidentes.png
     └── 08_vista_eficiencia_respuestas.png
+```
 
 # Análisis de Tráfico, Incidentes y Eficiencia en Tiempos de Respuesta (SQL)
 
